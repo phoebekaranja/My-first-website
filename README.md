@@ -1,5 +1,5 @@
 # My first-website
-#### A dice Game for Week4,project, 24.August.2018
+#### My first-website for Week1,project.
 #### By **PHOEBE Karanja
 =======
 #### A Dice Game for Week 4,project, 24.August.2018
