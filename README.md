@@ -1,9 +1,8 @@
 # My-first-website
 #### My first-website for Week1,project.
-#### By **PHOEBE Karanja
 #### By PHOEBE KARANJA
 ## Description
-
+it contains features that we have learnt so far.
 ## Setup/Installation Requirements
 * git clone https://github.com/phoebekaranja/My-first-website.git
 Cd My-first-website
